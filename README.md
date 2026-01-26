@@ -1,4 +1,5 @@
 🌞 Solar Panel Power Prediction using Machine Learning
+
 📌 Project Overview
 
 The Solar Panel Power Prediction project focuses on predicting the power output of solar panels using weather and environmental data.
